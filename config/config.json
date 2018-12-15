@@ -1,0 +1,9 @@
+{
+    "user": "tkpdtraining",
+    "password": "trainingyangbeneryah",
+    "dbname": "tokopedia-user",
+    "sqlhost": "devel-postgre.tkpd",
+    "sqlport": "5432",
+    "webserver": "http://localhost",
+    "webport": "8082"
+}
